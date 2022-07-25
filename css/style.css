@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: rgb(52, 165, 52);
+}
+
+canvas {
+    border-radius: 5px;
+}
+
+.main{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.svg{
+    margin-top: 40px;
+
+}
